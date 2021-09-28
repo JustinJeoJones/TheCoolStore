@@ -6,8 +6,8 @@ namespace Baby_Group_project
     {
         static void Main(string[] args)
         {
-            string myProjectName = "The cool stor";
-            Console.WriteLine($"Welcome to myProjectName");
+            string myProjectName = "The cool store";
+            Console.WriteLine($"Welcome to {myProjectName}");
         }
     }
 }
