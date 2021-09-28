@@ -1,0 +1,13 @@
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\bin\Debug\netcoreapp3.1\Baby Group project.exe
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\bin\Debug\netcoreapp3.1\Baby Group project.deps.json
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\bin\Debug\netcoreapp3.1\Baby Group project.runtimeconfig.json
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\bin\Debug\netcoreapp3.1\Baby Group project.runtimeconfig.dev.json
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\bin\Debug\netcoreapp3.1\Baby Group project.dll
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\bin\Debug\netcoreapp3.1\Baby Group project.pdb
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.csprojAssemblyReference.cache
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.AssemblyInfoInputs.cache
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.AssemblyInfo.cs
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.csproj.CoreCompileInputs.cache
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.dll
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.pdb
+C:\Users\Jeo\source\repos\Baby Group project\Baby Group project\obj\Debug\netcoreapp3.1\Baby Group project.genruntimeconfig.cache
